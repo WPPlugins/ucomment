@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: S9-egoi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-18 14:38+0200\n"
+"PO-Revision-Date: 2012-04-18 14:38+0200\n"
+"Last-Translator: Daniel <daniel@feedchannel.net>\n"
+"Language-Team: Sector 9 <info@sector9.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../u-comment.php:174
+msgid "General"
+msgstr "Общее"
+
+#: ../u-comment.php:174
+msgid "CSS"
+msgstr "CSS"
+
+#: ../u-comment.php:194
+msgid "Options updated."
+msgstr "Настройки обновлены"
+
+#: ../u-comment.php:202
+msgid "All options were erased."
+msgstr "Все настройки были очищены"
+
+#: ../u-comment.php:226
+msgid "Update Options &raquo;"
+msgstr "Обновить настройки"
+
+#: ../u-comment.php:237
+msgid "General options"
+msgstr "Главные настройки"
+
+#: ../u-comment.php:240
+msgid "Clone comment form"
+msgstr "Дублировать форму комментария"
+
+#: ../u-comment.php:244
+msgid "If checked, the comment form will be cloned instead of moved."
+msgstr "Если выбрано - форма комментирования будет продублирована а не перемещена"
+
+#: ../u-comment.php:247
+msgid "Post comments via ajax"
+msgstr "Размещать комментарии с помощью AJAX"
+
+#: ../u-comment.php:251
+msgid "If checked the comments will be posted using ajax."
+msgstr "Если выбрано - все комментарии будут размещены с помощью AJAX"
+
+#: ../u-comment.php:254
+msgid "Notify users via email"
+msgstr "Уведомить пользователей на Email"
+
+#: ../u-comment.php:258
+msgid "If checked, users will have the option to be notified via email whenever a reply to their comment is posted."
+msgstr "Если выбрано - пользователи будут нотифицированы по Email о новых комментариях к их комментариям"
+
+#: ../u-comment.php:261
+msgid "Validate comment form with javascript"
+msgstr "Валидировать комментарии с помощью JavaScript"
+
+#: ../u-comment.php:265
+msgid "If checked, the comment for will be validated before submition."
+msgstr "Если выбрано - комментарий будет провалидирован перед добавлением"
+
+#: ../u-comment.php:269
+msgid "Notification email options"
+msgstr "Настройки email нотификаций"
+
+#: ../u-comment.php:272
+msgid "Sender email address"
+msgstr "Email отправителя"
+
+#: ../u-comment.php:275
+msgid "The email address to use on the notification email."
+msgstr "Email для нотификаций"
+
+#: ../u-comment.php:279
+msgid "Subject"
+msgstr "Тема письма"
+
+#: ../u-comment.php:282
+msgid "The subject used on the notification email."
+msgstr "Тема письма которая будет использована в нотификациях"
+
+#: ../u-comment.php:286
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../u-comment.php:290
+msgid "The following tags can be used on the subject and message:"
+msgstr "Следующие теги могут быть использованы в теме и сообщении"
+
+#: ../u-comment.php:295
+msgid "Validation options"
+msgstr "Настройки валидации"
+
+#: ../u-comment.php:298
+msgid "Name"
+msgstr "Имя"
+
+#: ../u-comment.php:303
+msgid "Author field must contain more then 3 characters."
+msgstr "Поле Авто должно содержать не менее 3 символов"
+
+#: ../u-comment.php:306
+#: ../u-comment.php:325
+#: ../u-comment.php:361
+msgid "This field is always required."
+msgstr "Это после всегда обязательное"
+
+#: ../u-comment.php:309
+#: ../u-comment.php:312
+#: ../u-comment.php:328
+#: ../u-comment.php:331
+#: ../u-comment.php:351
+#: ../u-comment.php:354
+#: ../u-comment.php:364
+msgid "Error message"
+msgstr "Сообщение об ошибке"
+
+#: ../u-comment.php:317
+msgid "Email"
+msgstr "Email"
+
+#: ../u-comment.php:322
+msgid "Email field must contain a valid email address."
+msgstr "Поле Email должно содержать корректный адрес"
+
+#: ../u-comment.php:336
+msgid "Website"
+msgstr "Вебсайт"
+
+#: ../u-comment.php:341
+msgid "Website field must contain a valid url."
+msgstr "Поле вебсайт должно содержать корректный URL адрес"
+
+#: ../u-comment.php:347
+msgid "This field is required."
+msgstr "Это поле обязательное"
+
+#: ../u-comment.php:359
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../u-comment.php:369
+msgid "Error placement"
+msgstr "Расположение сообщения об ошибке"
+
+#: ../u-comment.php:374
+msgid "If checked, the error messages will be shown on top of the comment form. If not, they will show below each field."
+msgstr "Если выбрано - сообщение об ошибке будет расположено вверху формы комментария. Если нет - снизу под каждым из полей"
+
+#: ../u-comment.php:380
+msgid "Reset to defaults"
+msgstr "Сбросить к настройкам по умолчанию"
+
+#: ../u-comment.php:384
+msgid "Erase Options"
+msgstr "Очистить настройки"
+
+#: ../u-comment.php:385
+msgid "Delete all saved options. This will reset all options to their default values."
+msgstr "Удалить все сохранённые настройки. Это приведёт все настройки к их значениям по умолчанию."
+
+#: ../u-comment.php:395
+msgid "Cascading Style Sheet"
+msgstr "Каскадные таблицы стилей"
+
+#: ../u-comment.php:538
+msgid "Notify me by email if i get a reply"
+msgstr "Нотифицировать по Email если есть новый ответ"
+
+#~ msgid "INVALID"
+#~ msgstr "Error: Invalid data"
+
+#~ msgid "INTERNAL_ERROR"
+#~ msgstr "Internal error occurred"
+
+#~ msgid "NOTHING_TO_DO"
+#~ msgstr "No operation done"
+
+#~ msgid "LIST_MISSING"
+#~ msgstr "The List ID is missing"
+
+#~ msgid "LIST_NOT_FOUND"
+#~ msgstr "The List ID was not found"
+
+#~ msgid "CANNOT_ADD_MORE_SUBSCRIBERS"
+#~ msgstr "Cannot add more subscribers"
+
+#~ msgid "NO_DATA_TO_INSERT"
+#~ msgstr "No data to insert"
+
+#~ msgid "EMAIL_ALREADY_EXISTS"
+#~ msgstr "Email already exists"
+
+#~ msgid "EMAIL_ADDRESS_INVALID"
+#~ msgstr "Invalid email address"
+
+#~ msgid "EMAIL_ADDRESS_INVALID_MX_ERROR"
+#~ msgstr "Invalid email address"
+
+#~ msgid "EMAIL_ADDRESS_INVALID_DOESNT_EXIST"
+#~ msgstr "Invalid email address"
+
+#~ msgid "CELLPHONE_ALREADY_EXISTS"
+#~ msgstr "Cellphone already exists"
+
+#~ msgid "FAX_ALREADY_EXISTS"
+#~ msgstr "Fax already exists"
+
+#~ msgid "TELEPHONE_ALREADY_EXISTS"
+#~ msgstr "Telephone already exists"
+
+#~ msgid "FIRST_NAME_ALREADY_EXISTS"
+#~ msgstr "First name already exists"
+
+#~ msgid "LAST_NAME_ALREADY_EXISTS"
+#~ msgstr "Last name already exists"
+
+#~ msgid "TAX_ID_NUMBER_ALREADY_EXISTS"
+#~ msgstr "Tax ID Number already exists"
+
+#~ msgid "ADDRESS_ALREADY_EXISTS"
+#~ msgstr "Address already exists"
+
+#~ msgid "ZIP_CODE_ALREADY_EXISTS"
+#~ msgstr "Zip code already exists"
+
+#~ msgid "CITY_ALREADY_EXISTS"
+#~ msgstr "City already exists"
+
+#~ msgid "DISCRICT_ALREADY_EXISTS"
+#~ msgstr "District already exists"
+
+#~ msgid "STATE_ALREADY_EXISTS"
+#~ msgstr "State already exists"
+
+#~ msgid "COUNTRY_ALREADY_EXISTS"
+#~ msgstr "Country already exists"
+
+#~ msgid "AGE_ALREADY_EXISTS"
+#~ msgstr "Age already exists"
+
+#~ msgid "GENDER_ALREADY_EXISTS"
+#~ msgstr "Gender already exists"
+
+#~ msgid "ID_CARD_NUMBER_ALREADY_EXISTS"
+#~ msgstr "ID Card Number already exists"
+
+#~ msgid "COMPANY_ALREADY_EXISTS"
+#~ msgstr "Company already exists"
+
+#~ msgid "BIRTH_DATE_ALREADY_EXISTS"
+#~ msgstr "Birth date already exists"
+
+#~ msgid "SUBSCRIBER_MISSING"
+#~ msgstr "Subscriber is missing"
+
+#~ msgid "SUBSCRIBER_NOT_FOUND"
+#~ msgstr "Subscriber was not found"
+
+#~ msgid "CAMPAIGN_NOT_VALID"
+#~ msgstr "Campaign is not valid"
+
+#~ msgid "INVALID_FROM"
+#~ msgstr "Invalid Sender email/name"
+
+#~ msgid "NO_SUBJECT"
+#~ msgstr "No subject was found"
+
+#~ msgid "NO_MESSAGE"
+#~ msgstr "No message was found"
+
+#~ msgid "INVALID_FILE"
+#~ msgstr "Invalid File"
+
+#~ msgid "NO_ZIP_FILE"
+#~ msgstr "No Zip file was found"
+
+#~ msgid "FILE_TOO_LARGE"
+#~ msgstr "File is too large"
+
+#~ msgid "INVALID_URL"
+#~ msgstr "Invalid URL"
